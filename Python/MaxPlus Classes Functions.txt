@@ -1,0 +1,5428 @@
+# classes
+class _CustomActionItem:
+    pass
+
+
+class _INTERNAL_CustomActionCallback:
+    pass
+
+
+class _INTERNAL_NotificationManager:
+    pass
+
+
+class _NotificationHandler:
+    pass
+
+
+class _object:
+    pass
+
+
+class _static_generator_property:
+    pass
+
+
+class AbstractCustomActionItem:
+    pass
+
+
+class AbstractNotificationHandler:
+    pass
+
+
+class AColor:
+    pass
+
+
+class AColorList:
+    pass
+
+
+class ActionContext:
+    pass
+
+
+class ActionFactory:
+    pass
+
+
+class ActionItem:
+    pass
+
+
+class ActionManager:
+    pass
+
+
+class ActionTable:
+    pass
+
+
+class AffineParts:
+    pass
+
+
+class AngAxis:
+    pass
+
+
+class AngAxisList:
+    pass
+
+
+class Animatable:
+    pass
+
+
+class AnimatableInterfaceIds:
+    pass
+
+
+class Animation:
+    pass
+
+
+class AnimationKeySteps:
+    pass
+
+
+class AnimationTrajectory:
+    pass
+
+
+class Application:
+    pass
+
+
+class ArrayParameter:
+    pass
+
+
+class Asset:
+    pass
+
+
+class AssetDirectories:
+    pass
+
+
+class AssetManager:
+    pass
+
+
+class AssetTuple:
+    pass
+
+
+class AssetType:
+    pass
+
+
+class Atmospheric:
+    pass
+
+
+class Atomspherics:
+    pass
+
+
+class Axis:
+    pass
+
+
+class BaseInterface:
+    pass
+
+
+class BaseInterfaceServer:
+    pass
+
+
+class BaseObject:
+    pass
+
+
+class BezierShape:
+    pass
+
+
+class BezierShapeTopology:
+    pass
+
+
+class BitArray:
+    pass
+
+
+class BitArrayList:
+    pass
+
+
+class Bitmap:
+    pass
+
+
+class BitmapInfo:
+    pass
+
+
+class BitmapList:
+    pass
+
+
+class BitmapManager:
+    pass
+
+
+class BitmapStorage:
+    pass
+
+
+class BitmapTex:
+    pass
+
+
+class BoolList:
+    pass
+
+
+class Box2:
+    pass
+
+
+class Box3:
+    pass
+
+
+class CameraObject:
+    pass
+
+
+class CameraState:
+    pass
+
+
+class Class_ID:
+    pass
+
+
+class ClassDesc:
+    pass
+
+
+class ClassDescList:
+    pass
+
+
+class ClassIds:
+    pass
+
+
+class ClassInfo:
+    pass
+
+
+class ClassList:
+    pass
+
+
+class Color:
+    pass
+
+
+class Color64:
+    pass
+
+
+class ColorList:
+    pass
+
+
+class Colors:
+    pass
+
+
+class CommandPanel:
+    pass
+
+
+class Constants:
+    pass
+
+
+class ConstObject:
+    pass
+
+
+class ContainerManager:
+    pass
+
+
+class ContainerObject:
+    pass
+
+
+class ContainerPreferences:
+    pass
+
+
+class Control:
+    pass
+
+
+class ControlList:
+    pass
+
+
+class CoordinateSystem:
+    pass
+
+
+class Core:
+    pass
+
+
+class CUI:
+    pass
+
+
+class CUIFrame:
+    pass
+
+
+class CUIFrameMgr:
+    pass
+
+
+class CustomAttribute:
+    pass
+
+
+class CustomAttributeContainer:
+    pass
+
+
+class DimType:
+    pass
+
+
+class DisplayFilters:
+    pass
+
+
+class DOFParams:
+    pass
+
+
+class DoubleList:
+    pass
+
+
+class DummyObject:
+    pass
+
+
+class DWORDList:
+    pass
+
+
+class Effect:
+    pass
+
+
+class Effects:
+    pass
+
+
+class Environment:
+    pass
+
+
+class Face:
+    pass
+
+
+class FacePoints:
+    pass
+
+
+class Factory:
+    pass
+
+
+class FileManager:
+    pass
+
+
+class FilterKernel:
+    pass
+
+
+class FloatList:
+    pass
+
+
+class FPInterface:
+    pass
+
+
+class FPInterfaceDesc:
+    pass
+
+
+class FPInterfaceList:
+    pass
+
+
+class FPStaticInterface:
+    pass
+
+
+class FPTypeConstants:
+    pass
+
+
+class FPValue:
+    pass
+
+
+class FrameRendParams:
+    pass
+
+
+class GammaMgr:
+    pass
+
+
+class GenCamera:
+    pass
+
+
+class GenLight:
+    pass
+
+
+class GeomObject:
+    pass
+
+
+class GizmoObject:
+    pass
+
+
+class Grid:
+    pass
+
+
+class HDRColor:
+    pass
+
+
+class HelperObject:
+    pass
+
+
+class ICustomControl:
+    pass
+
+
+class IDerivedObject:
+    pass
+
+
+class IMultiPassCameraEffect:
+    pass
+
+
+class INode:
+    pass
+
+
+class INodeList:
+    pass
+
+
+class INodeTab:
+    pass
+
+
+class Int64List:
+    pass
+
+
+class Interface_ID:
+    pass
+
+
+class InterfaceIds:
+    pass
+
+
+class InterfaceServer:
+    pass
+
+
+class Interval:
+    pass
+
+
+class IntervalList:
+    pass
+
+
+class IntList:
+    pass
+
+
+class IObject:
+    pass
+
+
+class IObjectList:
+    pass
+
+
+class IParamArray:
+    pass
+
+
+class IParamBlock:
+    pass
+
+
+class IParamBlock2:
+    pass
+
+
+class IParamBlock2List:
+    pass
+
+
+class IParamMap:
+    pass
+
+
+class IPoint2:
+    pass
+
+
+class IPoint2List:
+    pass
+
+
+class IPoint3:
+    pass
+
+
+class IScanRenderer:
+    pass
+
+
+class ISubMap:
+    pass
+
+
+class Layer:
+    pass
+
+
+class LayerManager:
+    pass
+
+
+class LightObject:
+    pass
+
+
+class LightState:
+    pass
+
+
+class LinearShape:
+    pass
+
+
+class MappingChannel:
+    pass
+
+
+class MaterialEditor:
+    pass
+
+
+class MaterialLibrary:
+    pass
+
+
+class MaterialManager:
+    pass
+
+
+class Math:
+    pass
+
+
+class Matrix3:
+    pass
+
+
+class Matrix3List:
+    pass
+
+
+class Menu:
+    pass
+
+
+class MenuBuilder:
+    pass
+
+
+class MenuElement:
+    pass
+
+
+class MenuItem:
+    pass
+
+
+class MenuManager:
+    pass
+
+
+class Mesh:
+    pass
+
+
+class MeshList:
+    pass
+
+
+class ModContext:
+    pass
+
+
+class ModContextList:
+    pass
+
+
+class Modifier:
+    pass
+
+
+class ModifierPanel:
+    pass
+
+
+class Mtl:
+    pass
+
+
+class MtlBase:
+    pass
+
+
+class MtlList:
+    pass
+
+
+class MultiMtl:
+    pass
+
+
+class Names:
+    pass
+
+
+class NotificationCodes:
+    pass
+
+
+class NotificationManager:
+    pass
+
+
+class Object:
+    pass
+
+
+class ObjectList:
+    pass
+
+
+class ObjectState:
+    pass
+
+
+class OSModifier:
+    pass
+
+
+class ParamBlockDesc2:
+    pass
+
+
+class ParamDimension:
+    pass
+
+
+class ParamDimensionBase:
+    pass
+
+
+class Parameter:
+    pass
+
+
+class ParameterBlock:
+    pass
+
+
+class PathManager:
+    pass
+
+
+class PBBitmap:
+    pass
+
+
+class PCharList:
+    pass
+
+
+class PivotMode:
+    pass
+
+
+class PluginDll:
+    pass
+
+
+class PluginManager:
+    pass
+
+
+class Point2:
+    pass
+
+
+class Point2List:
+    pass
+
+
+class Point3:
+    pass
+
+
+class Point3List:
+    pass
+
+
+class Point4:
+    pass
+
+
+class Point4List:
+    pass
+
+
+class PolyLine:
+    pass
+
+
+class PolyObject:
+    pass
+
+
+class PolyPt:
+    pass
+
+
+class PolyShape:
+    pass
+
+
+class PreferencesFileEncoding:
+    pass
+
+
+class PreferencesRendering:
+    pass
+
+
+class PreviewParams:
+    pass
+
+
+class QuadMenu:
+    pass
+
+
+class Quat:
+    pass
+
+
+class QuatList:
+    pass
+
+
+class RadiosityEffect:
+    pass
+
+
+class Ray:
+    pass
+
+
+class RayList:
+    pass
+
+
+class RealWorldMapSizeInterface:
+    pass
+
+
+class ReferenceMaker:
+    pass
+
+
+class ReferenceMessagePartIds:
+    pass
+
+
+class ReferenceTarget:
+    pass
+
+
+class ReferenceTargetList:
+    pass
+
+
+class RenderElement:
+    pass
+
+
+class RenderElementMgr:
+    pass
+
+
+class Renderer:
+    pass
+
+
+class RenderExecute:
+    pass
+
+
+class RenderSettingID:
+    pass
+
+
+class RenderSettings:
+    pass
+
+
+class RendParams:
+    pass
+
+
+class RendType:
+    pass
+
+
+class ResCode:
+    pass
+
+
+class ScaleValue:
+    pass
+
+
+class SchematicViews:
+    pass
+
+
+class SelectionManager:
+    pass
+
+
+class SetXFormPacket:
+    pass
+
+
+class ShapeObject:
+    pass
+
+
+class Snaps:
+    pass
+
+
+class SoundObj:
+    pass
+
+
+class SpecialFX:
+    pass
+
+
+class SplineKnot:
+    pass
+
+
+class SplinePoint:
+    pass
+
+
+class SplineShape:
+    pass
+
+
+class StatusPanel:
+    pass
+
+
+class StdMat:
+    pass
+
+
+class StrList:
+    pass
+
+
+class SuperClassIds:
+    pass
+
+
+class SwigPyIterator:
+    pass
+
+
+class Texmap:
+    pass
+
+
+class TexmapList:
+    pass
+
+
+class TextureOutput:
+    pass
+
+
+class ToneOperator:
+    pass
+
+
+class TrackView:
+    pass
+
+
+class TransformGizmos:
+    pass
+
+
+class TriObject:
+    pass
+
+
+class TVFace:
+    pass
+
+
+class ViewParams:
+    pass
+
+
+class Viewport:
+    pass
+
+
+class ViewportManager:
+    pass
+
+
+class ViewportsBackground:
+    pass
+
+
+class Win32:
+    pass
+
+
+class Wrapper:
+    pass
+
+
+class WSModifier:
+    pass
+
+
+class WStr:
+    pass
+
+
+class XRefs:
+    pass
+
+
+# Functions
+def AColor_AComp():
+    pass
+
+
+def AColor_CompositeOver():
+    pass
+
+
+def ActionContext__CastFrom():
+    pass
+
+
+def ActionItem__CastFrom():
+    pass
+
+
+def ActionManager_FindContext():
+    pass
+
+
+def ActionManager_GetActionContext():
+    pass
+
+
+def ActionManager_GetActionTable():
+    pass
+
+
+def ActionManager_GetFPStaticInterface():
+    pass
+
+
+def ActionManager_GetKeyboardFile():
+    pass
+
+
+def ActionManager_GetNumActionContexts():
+    pass
+
+
+def ActionManager_GetNumActionTables():
+    pass
+
+
+def ActionManager_GetShortcutDir():
+    pass
+
+
+def ActionManager_GetShortcutFile():
+    pass
+
+
+def ActionManager_IdToIndex():
+    pass
+
+
+def ActionManager_IsContextActive():
+    pass
+
+
+def ActionManager_LoadKeyboardFile():
+    pass
+
+
+def ActionManager_MakeActionSetCurrent():
+    pass
+
+
+def ActionManager_RegisterActionContext():
+    pass
+
+
+def ActionManager_SaveAllContextsToINI():
+    pass
+
+
+def ActionManager_SaveKeyboardFile():
+    pass
+
+
+def ActionTable__CastFrom():
+    pass
+
+
+def Animatable__CastFrom():
+    pass
+
+
+def Animatable_ClearFlagInAllAnimatables():
+    pass
+
+
+def Animatable_GetAnimByHandle():
+    pass
+
+
+def Animation_AreWeKeying():
+    pass
+
+
+def Animation_EnableAnimateButton():
+    pass
+
+
+def Animation_EndPlayback():
+    pass
+
+
+def Animation_GetAnimRange():
+    pass
+
+
+def Animation_GetAutoKeyDefaultKeyOn():
+    pass
+
+
+def Animation_GetAutoKeyDefaultKeyTime():
+    pass
+
+
+def Animation_GetControllerOverrideRangeDefault():
+    pass
+
+
+def Animation_GetDefaultInTangentType():
+    pass
+
+
+def Animation_GetDefaultOutTangentType():
+    pass
+
+
+def Animation_GetEndTime():
+    pass
+
+
+def Animation_GetIsAnimating():
+    pass
+
+
+def Animation_GetPlayActiveOnly():
+    pass
+
+
+def Animation_GetPlaybackLoop():
+    pass
+
+
+def Animation_GetPlaybackSpeed():
+    pass
+
+
+def Animation_GetRealTimePlayback():
+    pass
+
+
+def Animation_GetSetKeyMode():
+    pass
+
+
+def Animation_GetSetKeyModeStatus():
+    pass
+
+
+def Animation_GetSetKeySuspended():
+    pass
+
+
+def Animation_GetStartTime():
+    pass
+
+
+def Animation_GetTime():
+    pass
+
+
+def Animation_IsAnimateEnabled():
+    pass
+
+
+def Animation_IsPlaying():
+    pass
+
+
+def Animation_IsSetKeyModeFeatureEnabled():
+    pass
+
+
+def Animation_ResumeAnimate():
+    pass
+
+
+def Animation_ResumeSetKeyMode():
+    pass
+
+
+def Animation_SetAnimateButtonState():
+    pass
+
+
+def Animation_SetAutoKeyDefaultKeyOn():
+    pass
+
+
+def Animation_SetAutoKeyDefaultKeyTime():
+    pass
+
+
+def Animation_SetControllerOverrideRangeDefault():
+    pass
+
+
+def Animation_SetDefaultTangentType():
+    pass
+
+
+def Animation_SetEndTime():
+    pass
+
+
+def Animation_SetIsAnimating():
+    pass
+
+
+def Animation_SetPlayActiveOnly():
+    pass
+
+
+def Animation_SetPlaybackLoop():
+    pass
+
+
+def Animation_SetPlaybackSpeed():
+    pass
+
+
+def Animation_SetRange():
+    pass
+
+
+def Animation_SetRealTimePlayback():
+    pass
+
+
+def Animation_SetSetKeyMode():
+    pass
+
+
+def Animation_SetStartTime():
+    pass
+
+
+def Animation_SetTime():
+    pass
+
+
+def Animation_StartPlayback():
+    pass
+
+
+def Animation_SuspendAnimate():
+    pass
+
+
+def Animation_SuspendSetKeyMode():
+    pass
+
+
+def AnimationKeySteps_GetPosition():
+    pass
+
+
+def AnimationKeySteps_GetRotation():
+    pass
+
+
+def AnimationKeySteps_GetScale():
+    pass
+
+
+def AnimationKeySteps_GetSelectedOnly():
+    pass
+
+
+def AnimationKeySteps_GetUseTrackBar():
+    pass
+
+
+def AnimationKeySteps_GetUseTransform():
+    pass
+
+
+def AnimationKeySteps_SetPosition():
+    pass
+
+
+def AnimationKeySteps_SetRotation():
+    pass
+
+
+def AnimationKeySteps_SetScale():
+    pass
+
+
+def AnimationKeySteps_SetSelectedOnly():
+    pass
+
+
+def AnimationKeySteps_SetUseTrackBar():
+    pass
+
+
+def AnimationKeySteps_SetUseTransform():
+    pass
+
+
+def AnimationTrajectory_DeleteSelectedKey():
+    pass
+
+
+def AnimationTrajectory_GetAddKeyMode():
+    pass
+
+
+def AnimationTrajectory_GetKeySubMode():
+    pass
+
+
+def AnimationTrajectory_GetMode():
+    pass
+
+
+def AnimationTrajectory_SetAddKeyMode():
+    pass
+
+
+def AnimationTrajectory_SetKeySubMode():
+    pass
+
+
+def AnimationTrajectory_SetMode():
+    pass
+
+
+def Application_AutoBackupEnabled():
+    pass
+
+
+def Application_CheckMAXMessages():
+    pass
+
+
+def Application_DrawingEnabled():
+    pass
+
+
+def Application_EnableAutoBackup():
+    pass
+
+
+def Application_EnableDrawing():
+    pass
+
+
+def Application_ExecuteMAXCommand():
+    pass
+
+
+def Application_FlushUndoBuffer():
+    pass
+
+
+def Application_Get3DSMAXVersion():
+    pass
+
+
+def Application_GetAppID():
+    pass
+
+
+def Application_GetAutoBackupTime():
+    pass
+
+
+def Application_GetInterface():
+    pass
+
+
+def Application_GetLicenseBehavior():
+    pass
+
+
+def Application_GetLicenseDaysLeft():
+    pass
+
+
+def Application_GetProductVersion():
+    pass
+
+
+def Application_GetQuietMode():
+    pass
+
+
+def Application_GetScreenHeight():
+    pass
+
+
+def Application_GetScreenWidth():
+    pass
+
+
+def Application_GetSoundObject():
+    pass
+
+
+def Application_IsDebugging():
+    pass
+
+
+def Application_IsFeatureLicensed():
+    pass
+
+
+def Application_IsNetworkLicense():
+    pass
+
+
+def Application_IsQuitingApp():
+    pass
+
+
+def Application_IsSceneResetting():
+    pass
+
+
+def Application_IsTrialLicense():
+    pass
+
+
+def Application_IsUsingProfileDirectories():
+    pass
+
+
+def Application_IsUsingRoamingProfiles():
+    pass
+
+
+def Application_NumberOfProcessors():
+    pass
+
+
+def Application_RescaleWorldUnits():
+    pass
+
+
+def Application_SetAutoBackupTime():
+    pass
+
+
+def Application_SetQuietMode():
+    pass
+
+
+def Application_SetSoundObject():
+    pass
+
+
+def ArrayParameter__CastFrom():
+    pass
+
+
+def ArrayParameter_GetValue_Typed():
+    pass
+
+
+def ArrayParameter_SetValue_Typed():
+    pass
+
+
+def AssetDirectories_Add():
+    pass
+
+
+def AssetDirectories_AddSession():
+    pass
+
+
+def AssetDirectories_Delete():
+    pass
+
+
+def AssetDirectories_DeleteSession():
+    pass
+
+
+def AssetDirectories_Get():
+    pass
+
+
+def AssetDirectories_GetCount():
+    pass
+
+
+def AssetDirectories_GetCurrent():
+    pass
+
+
+def AssetDirectories_GetCurrentCount():
+    pass
+
+
+def AssetDirectories_GetSession():
+    pass
+
+
+def AssetDirectories_GetSessionCount():
+    pass
+
+
+def AssetDirectories_UpdateSection():
+    pass
+
+
+def AssetManager_CreateAsset():
+    pass
+
+
+def AssetManager_GetAssets():
+    pass
+
+
+def Atmospheric__CastFrom():
+    pass
+
+
+def Atomspherics_Add():
+    pass
+
+
+def Atomspherics_Delete():
+    pass
+
+
+def Atomspherics_Edit():
+    pass
+
+
+def Atomspherics_Get():
+    pass
+
+
+def Atomspherics_GetCount():
+    pass
+
+
+def Atomspherics_Set():
+    pass
+
+
+def Axis_EnableConstraints():
+    pass
+
+
+def Axis_GetConstantRestriction():
+    pass
+
+
+def Axis_GetConstraints():
+    pass
+
+
+def Axis_GetCount():
+    pass
+
+
+def Axis_GetTransformAxis():
+    pass
+
+
+def Axis_GetTripodLocked():
+    pass
+
+
+def Axis_PopConstraints():
+    pass
+
+
+def Axis_PushConstraints():
+    pass
+
+
+def Axis_SetConstantRestriction():
+    pass
+
+
+def Axis_SetConstraints():
+    pass
+
+
+def Axis_SetLockTripods():
+    pass
+
+
+def BaseInterface__CastFrom():
+    pass
+
+
+def BaseInterfaceServer__CastFrom():
+    pass
+
+
+def BaseObject__CastFrom():
+    pass
+
+
+def BezierShape__CastFrom():
+    pass
+
+
+def BitArray_kMAX_LOCALBITS():
+    pass
+
+
+def Bitmap__CastFrom():
+    pass
+
+
+def Bitmap_ClampColor():
+    pass
+
+
+def Bitmap_ClampColorA():
+    pass
+
+
+def Bitmap_ScaleColor():
+    pass
+
+
+def Bitmap_ScaleColorA():
+    pass
+
+
+def BitmapInfo__CastFrom():
+    pass
+
+
+def BitmapManager_CanImport():
+    pass
+
+
+def BitmapManager_FreeSceneBitmaps():
+    pass
+
+
+def BitmapManager_GetImageInfo():
+    pass
+
+
+def BitmapManager_GetImageInfoDlg():
+    pass
+
+
+def BitmapManager_GetImageInputOptions():
+    pass
+
+
+def BitmapManager_GetSilentMode():
+    pass
+
+
+def BitmapManager_Load():
+    pass
+
+
+def BitmapManager_SelectDeviceInput():
+    pass
+
+
+def BitmapManager_SelectDeviceOutput():
+    pass
+
+
+def BitmapManager_SelectFileInputEx():
+    pass
+
+
+def BitmapManager_SelectFileOutput():
+    pass
+
+
+def BitmapManager_SetSilentMode():
+    pass
+
+
+def BitmapStorage__CastFrom():
+    pass
+
+
+def BitmapStorage_ClampColor():
+    pass
+
+
+def BitmapStorage_ClampColorA():
+    pass
+
+
+def BitmapStorage_ScaleColor():
+    pass
+
+
+def BitmapStorage_ScaleColorA():
+    pass
+
+
+def BitmapTex__CastFrom():
+    pass
+
+
+def CameraObject__CastFrom():
+    pass
+
+
+def CameraState__CastFrom():
+    pass
+
+
+def ClassDesc__CastFrom():
+    pass
+
+
+def Color_color_spline():
+    pass
+
+
+def Color_to_COLORREF():
+    pass
+
+
+def CommandPanel_GetCurEditObject():
+    pass
+
+
+def CommandPanel_GetIsOpen():
+    pass
+
+
+def CommandPanel_IsEditing():
+    pass
+
+
+def CommandPanel_ResumeEditing():
+    pass
+
+
+def CommandPanel_ResumeMotionEditing():
+    pass
+
+
+def CommandPanel_SetCurrentEditObject():
+    pass
+
+
+def CommandPanel_SetOpen():
+    pass
+
+
+def CommandPanel_SuspendEditing():
+    pass
+
+
+def CommandPanel_SuspendMotionEditing():
+    pass
+
+
+def ConstObject__CastFrom():
+    pass
+
+
+def ContainerManager_AsContainer():
+    pass
+
+
+def ContainerManager_AsContainerNode():
+    pass
+
+
+def ContainerManager_CreateContainer():
+    pass
+
+
+def ContainerManager_CreateInheritedContainer():
+    pass
+
+
+def ContainerManager_GetContainer():
+    pass
+
+
+def ContainerManager_IsContainerNode():
+    pass
+
+
+def ContainerManager_IsInContainer():
+    pass
+
+
+def ContainerObject__CastFrom():
+    pass
+
+
+def Control__CastFrom():
+    pass
+
+
+def CoordinateSystem_AddReferencedNode():
+    pass
+
+
+def CoordinateSystem_EnableCenter():
+    pass
+
+
+def CoordinateSystem_EnableReferenceSystem():
+    pass
+
+
+def CoordinateSystem_GetCenter():
+    pass
+
+
+def CoordinateSystem_GetCurrent():
+    pass
+
+
+def CoordinateSystem_GetReferenceNode():
+    pass
+
+
+def CoordinateSystem_GetReferenceSystem():
+    pass
+
+
+def CoordinateSystem_SetCenter():
+    pass
+
+
+def CoordinateSystem_SetReferenceSystem():
+    pass
+
+
+def Core_EvalMAXScript():
+    pass
+
+
+def Core_GetCOREInterface():
+    pass
+
+
+def Core_GetCOREInterfaceAt():
+    pass
+
+
+def Core_GetCurrentTime():
+    pass
+
+
+def Core_GetFPInterface():
+    pass
+
+
+def Core_GetFPInterfaceDesc():
+    pass
+
+
+def Core_GetInterface():
+    pass
+
+
+def Core_GetRootNode():
+    pass
+
+
+def Core_GetWindowHandle():
+    pass
+
+
+def Core_Print():
+    pass
+
+
+def Core_SetCurrentTime():
+    pass
+
+
+def Core_Write():
+    pass
+
+
+def Core_WriteLine():
+    pass
+
+
+def CUI_AreAcceleratorsEnabled():
+    pass
+
+
+def CUI_AreAllFloatersHidden():
+    pass
+
+
+def CUI_DisableAccelerators():
+    pass
+
+
+def CUI_DoUICustomization():
+    pass
+
+
+def CUI_EnableAccelerators():
+    pass
+
+
+def CUI_EnableToolButton():
+    pass
+
+
+def CUI_GetActionCommonIReshadeTableId():
+    pass
+
+
+def CUI_GetActionIReshadeContext():
+    pass
+
+
+def CUI_GetActionMainUIContext():
+    pass
+
+
+def CUI_GetActionMainUITableId():
+    pass
+
+
+def CUI_GetActionMaterialEditorContext():
+    pass
+
+
+def CUI_GetActionMaterialEditorTableId():
+    pass
+
+
+def CUI_GetActionScanlineIReshadeTableId():
+    pass
+
+
+def CUI_GetActionSchematicViewContext():
+    pass
+
+
+def CUI_GetActionSchematicViewTableId():
+    pass
+
+
+def CUI_GetActionTrackViewContext():
+    pass
+
+
+def CUI_GetActionTrackViewTableId():
+    pass
+
+
+def CUI_GetActionVideoPostContext():
+    pass
+
+
+def CUI_GetActionVideoPostTableId():
+    pass
+
+
+def CUI_GetCancel():
+    pass
+
+
+def CUI_GetExpertMode():
+    pass
+
+
+def CUI_GetFlyOffTime():
+    pass
+
+
+def CUI_GetToolButtonState():
+    pass
+
+
+def CUI_LoadCUI():
+    pass
+
+
+def CUI_LoadCUIConfig():
+    pass
+
+
+def CUI_ResetToFactoryDefaultCUI():
+    pass
+
+
+def CUI_RevertToBackupCUI():
+    pass
+
+
+def CUI_SaveCUIAs():
+    pass
+
+
+def CUI_SetCancel():
+    pass
+
+
+def CUI_SetExpertMode():
+    pass
+
+
+def CUI_SetFlyOffTime():
+    pass
+
+
+def CUI_SetToolButtonState():
+    pass
+
+
+def CUI_ShowCustomizeDialog():
+    pass
+
+
+def CUI_WriteCUIConfig():
+    pass
+
+
+def CUIFrame__CastFrom():
+    pass
+
+
+def CUIFrame_Create():
+    pass
+
+
+def CUIFrameMgr_DrawCUIWindows():
+    pass
+
+
+def CUIFrameMgr_GetConfigFile():
+    pass
+
+
+def CUIFrameMgr_GetCount():
+    pass
+
+
+def CUIFrameMgr_GetCUIDirectory():
+    pass
+
+
+def CUIFrameMgr_GetFrame():
+    pass
+
+
+def CUIFrameMgr_RecalcLayout():
+    pass
+
+
+def CUIFrameMgr_ResetIconImages():
+    pass
+
+
+def CUIFrameMgr_SetConfigFile():
+    pass
+
+
+def CUIFrameMgr_SetMacroButtonStates():
+    pass
+
+
+def CustomAttribute__CastFrom():
+    pass
+
+
+def CustomAttributeContainer__CastFrom():
+    pass
+
+
+def DisplayFilters_GetCount():
+    pass
+
+
+def DisplayFilters_GetEnabled():
+    pass
+
+
+def DisplayFilters_GetHideFrozen():
+    pass
+
+
+def DisplayFilters_GetName():
+    pass
+
+
+def DisplayFilters_GetSceneDisplayFlag():
+    pass
+
+
+def DisplayFilters_IsNodeVisible():
+    pass
+
+
+def DisplayFilters_SetEnabled():
+    pass
+
+
+def DisplayFilters_SetSceneDisplayFlag():
+    pass
+
+
+def DummyObject__CastFrom():
+    pass
+
+
+def Effect__CastFrom():
+    pass
+
+
+def Effects_Add():
+    pass
+
+
+def Effects_CloseDialog():
+    pass
+
+
+def Effects_Delete():
+    pass
+
+
+def Effects_Edit():
+    pass
+
+
+def Effects_Get():
+    pass
+
+
+def Effects_GetCount():
+    pass
+
+
+def Effects_OpenDialog():
+    pass
+
+
+def Effects_Set():
+    pass
+
+
+def Environment_AddLightToScene():
+    pass
+
+
+def Environment_GetAmbient():
+    pass
+
+
+def Environment_GetAmbientController():
+    pass
+
+
+def Environment_GetLightConeConstraint():
+    pass
+
+
+def Environment_GetLightLevel():
+    pass
+
+
+def Environment_GetLightLevelController():
+    pass
+
+
+def Environment_GetLightTint():
+    pass
+
+
+def Environment_GetLightTintController():
+    pass
+
+
+def Environment_GetMap():
+    pass
+
+
+def Environment_GetMapEnabled():
+    pass
+
+
+def Environment_SetAmbient():
+    pass
+
+
+def Environment_SetAmbientController():
+    pass
+
+
+def Environment_SetLightLevel():
+    pass
+
+
+def Environment_SetLightLevelController():
+    pass
+
+
+def Environment_SetLightTint():
+    pass
+
+
+def Environment_SetLightTintController():
+    pass
+
+
+def Environment_SetMap():
+    pass
+
+
+def Environment_SetMapEnabled():
+    pass
+
+
+def Face__CastFrom():
+    pass
+
+
+def Factory_CreateAnimatable():
+    pass
+
+
+def Factory_CreateAtmospheric():
+    pass
+
+
+def Factory_CreateBitmap():
+    pass
+
+
+def Factory_CreateBoxGizmoObject():
+    pass
+
+
+def Factory_CreateCamera():
+    pass
+
+
+def Factory_CreateCameraObject():
+    pass
+
+
+def Factory_CreateCylGizmoObject():
+    pass
+
+
+def Factory_CreateDefaultBitmapTex():
+    pass
+
+
+def Factory_CreateDefaultBoolController():
+    pass
+
+
+def Factory_CreateDefaultColorController():
+    pass
+
+
+def Factory_CreateDefaultCompositeTex():
+    pass
+
+
+def Factory_CreateDefaultFloatController():
+    pass
+
+
+def Factory_CreateDefaultFRGBAController():
+    pass
+
+
+def Factory_CreateDefaultMasterPointController():
+    pass
+
+
+def Factory_CreateDefaultMatrix3Controller():
+    pass
+
+
+def Factory_CreateDefaultMixTex():
+    pass
+
+
+def Factory_CreateDefaultMultiMtl():
+    pass
+
+
+def Factory_CreateDefaultPoint2Controller():
+    pass
+
+
+def Factory_CreateDefaultPoint3Controller():
+    pass
+
+
+def Factory_CreateDefaultPoint4Controller():
+    pass
+
+
+def Factory_CreateDefaultPositionController():
+    pass
+
+
+def Factory_CreateDefaultRotationController():
+    pass
+
+
+def Factory_CreateDefaultScaleController():
+    pass
+
+
+def Factory_CreateDefaultSoundObj():
+    pass
+
+
+def Factory_CreateDefaultStdCubic():
+    pass
+
+
+def Factory_CreateDefaultStdFog():
+    pass
+
+
+def Factory_CreateDefaultStdMat():
+    pass
+
+
+def Factory_CreateDefaultStdMirror():
+    pass
+
+
+def Factory_CreateDefaultTintTex():
+    pass
+
+
+def Factory_CreateDerivedObject():
+    pass
+
+
+def Factory_CreateDirectionalLight():
+    pass
+
+
+def Factory_CreateDummyObject():
+    pass
+
+
+def Factory_CreateFloatController():
+    pass
+
+
+def Factory_CreateFreeCamera():
+    pass
+
+
+def Factory_CreateGeomObject():
+    pass
+
+
+def Factory_CreateGizmoObject():
+    pass
+
+
+def Factory_CreateHelperObject():
+    pass
+
+
+def Factory_CreateInterpFloat():
+    pass
+
+
+def Factory_CreateInterpPoint2():
+    pass
+
+
+def Factory_CreateInterpPoint3():
+    pass
+
+
+def Factory_CreateInterpPoint4():
+    pass
+
+
+def Factory_CreateInterpPosition():
+    pass
+
+
+def Factory_CreateInterpRotation():
+    pass
+
+
+def Factory_CreateInterpScale():
+    pass
+
+
+def Factory_CreateLight():
+    pass
+
+
+def Factory_CreateLightObject():
+    pass
+
+
+def Factory_CreateLookatControl():
+    pass
+
+
+def Factory_CreateMasterPointControl():
+    pass
+
+
+def Factory_CreateMaterial():
+    pass
+
+
+def Factory_CreateMatrix3Controller():
+    pass
+
+
+def Factory_CreateMorphController():
+    pass
+
+
+def Factory_CreateNewMesh():
+    pass
+
+
+def Factory_CreateNewTriObject():
+    pass
+
+
+def Factory_CreateNode():
+    pass
+
+
+def Factory_CreateObject():
+    pass
+
+
+def Factory_CreateObjectModifier():
+    pass
+
+
+def Factory_CreateOmniLight():
+    pass
+
+
+def Factory_CreateParallelCamera():
+    pass
+
+
+def Factory_CreatePoint3Controller():
+    pass
+
+
+def Factory_CreatePositionController():
+    pass
+
+
+def Factory_CreatePRSControl():
+    pass
+
+
+def Factory_CreateRenderElement():
+    pass
+
+
+def Factory_CreateRenderer():
+    pass
+
+
+def Factory_CreateRenderingEffect():
+    pass
+
+
+def Factory_CreateRotationController():
+    pass
+
+
+def Factory_CreateScaleController():
+    pass
+
+
+def Factory_CreateShapeObject():
+    pass
+
+
+def Factory_CreateSound():
+    pass
+
+
+def Factory_CreateSphereGizmoObject():
+    pass
+
+
+def Factory_CreateStorage():
+    pass
+
+
+def Factory_CreateTargetedCamera():
+    pass
+
+
+def Factory_CreateTargetedDirectionalLight():
+    pass
+
+
+def Factory_CreateTargetedSpotLight():
+    pass
+
+
+def Factory_CreateTargetObject():
+    pass
+
+
+def Factory_CreateTextureMap():
+    pass
+
+
+def Factory_CreateWorldSpaceModifier():
+    pass
+
+
+def Factory_CreateWSDerivedObject():
+    pass
+
+
+def Factory_GetDefaultController():
+    pass
+
+
+def Factory_IsCreatingObject():
+    pass
+
+
+def Factory_SetDefaultBoolController():
+    pass
+
+
+def Factory_SetDefaultColorController():
+    pass
+
+
+def Factory_SetDefaultController():
+    pass
+
+
+def Factory_SetDefaultFRGBAController():
+    pass
+
+
+def Factory_StartCreatingObject():
+    pass
+
+
+def Factory_StopCreating():
+    pass
+
+
+def FileManager_AppendToCurFilePath():
+    pass
+
+
+def FileManager_CanImportBitmap():
+    pass
+
+
+def FileManager_CanImportFile():
+    pass
+
+
+def FileManager_CheckForSave():
+    pass
+
+
+def FileManager_ChooseDirectory():
+    pass
+
+
+def FileManager_ConfigureBitmapPaths():
+    pass
+
+
+def FileManager_DoesFileExist():
+    pass
+
+
+def FileManager_DoMaxFileSaveAsDlg():
+    pass
+
+
+def FileManager_DownloadUrl():
+    pass
+
+
+def FileManager_Export():
+    pass
+
+
+def FileManager_ExportSelected():
+    pass
+
+
+def FileManager_Fetch():
+    pass
+
+
+def FileManager_GetFileName():
+    pass
+
+
+def FileManager_GetFileNameAndPath():
+    pass
+
+
+def FileManager_GetSaveRequiredFlag():
+    pass
+
+
+def FileManager_GetSavingVersion():
+    pass
+
+
+def FileManager_Hold():
+    pass
+
+
+def FileManager_Import():
+    pass
+
+
+def FileManager_IsAutoSaveRequired():
+    pass
+
+
+def FileManager_IsInternetCachedFile():
+    pass
+
+
+def FileManager_IsMaxFile():
+    pass
+
+
+def FileManager_IsSaveRequired():
+    pass
+
+
+def FileManager_IsSavingToFile():
+    pass
+
+
+def FileManager_Merge():
+    pass
+
+
+def FileManager_Open():
+    pass
+
+
+def FileManager_Reset():
+    pass
+
+
+def FileManager_Save():
+    pass
+
+
+def FileManager_SaveAs():
+    pass
+
+
+def FileManager_SaveNodes():
+    pass
+
+
+def FileManager_SaveNodesAsVersion():
+    pass
+
+
+def FileManager_SaveSceneAsVersion():
+    pass
+
+
+def FileManager_SaveSelected():
+    pass
+
+
+def FileManager_SaveSelectedNodesAsVersion():
+    pass
+
+
+def FileManager_SetSaveRequiredFlag():
+    pass
+
+
+def FileManager_SetSavingVersion():
+    pass
+
+
+def FilterKernel__CastFrom():
+    pass
+
+
+def Forever():
+    pass
+
+
+def FPInterface__CastFrom():
+    pass
+
+
+def FPInterfaceDesc__CastFrom():
+    pass
+
+
+def FPStaticInterface__CastFrom():
+    pass
+
+
+def FPTypeGetName():
+    pass
+
+
+def FPValue_Get():
+    pass
+
+
+def FrameRendParams__CastFrom():
+    pass
+
+
+def GammaMgr_DeGammaCorrect():
+    pass
+
+
+def GammaMgr_DisplayGammaCorrect():
+    pass
+
+
+def GammaMgr_Enable():
+    pass
+
+
+def GammaMgr_GammaCorrect():
+    pass
+
+
+def GammaMgr_GetDisplayGamma():
+    pass
+
+
+def GammaMgr_GetDitherPaletted():
+    pass
+
+
+def GammaMgr_GetDitherTrue():
+    pass
+
+
+def GammaMgr_GetFileInGamma():
+    pass
+
+
+def GammaMgr_GetFileOutGamma():
+    pass
+
+
+def GammaMgr_IsEnabled():
+    pass
+
+
+def GammaMgr_SetDisplayGamma():
+    pass
+
+
+def GammaMgr_SetDitherPaletted():
+    pass
+
+
+def GammaMgr_SetDitherTrue():
+    pass
+
+
+def GammaMgr_SetFileInGamma():
+    pass
+
+
+def GammaMgr_SetFileOutGamma():
+    pass
+
+
+def GenCamera__CastFrom():
+    pass
+
+
+def GenLight__CastFrom():
+    pass
+
+
+def GeomObject__CastFrom():
+    pass
+
+
+def GizmoObject__CastFrom():
+    pass
+
+
+def Grid_Add():
+    pass
+
+
+def Grid_GetActive():
+    pass
+
+
+def Grid_GetIntensity():
+    pass
+
+
+def Grid_GetMajorLines():
+    pass
+
+
+def Grid_GetSpacing():
+    pass
+
+
+def Grid_GetUseGridColor():
+    pass
+
+
+def Grid_GetWhiteOrigin():
+    pass
+
+
+def Grid_SetActive():
+    pass
+
+
+def Grid_SetIntensity():
+    pass
+
+
+def Grid_SetMajorLines():
+    pass
+
+
+def Grid_SetSpacing():
+    pass
+
+
+def Grid_SetUseGridColor():
+    pass
+
+
+def Grid_SetWhiteOrigin():
+    pass
+
+
+def HDRColor_ClipColor():
+    pass
+
+
+def HelperObject__CastFrom():
+    pass
+
+
+def ICustomControl__CastFrom():
+    pass
+
+
+def Identity():
+    pass
+
+
+def IDerivedObject__CastFrom():
+    pass
+
+
+def IMultiPassCameraEffect__CastFrom():
+    pass
+
+
+def INode__CastFrom():
+    pass
+
+
+def INode_AttachNodesToGroup():
+    pass
+
+
+def INode_CloseGroup():
+    pass
+
+
+def INode_DeleteNodes():
+    pass
+
+
+def INode_DetachNodesFromGroup():
+    pass
+
+
+def INode_ExplodeNodes():
+    pass
+
+
+def INode_FindNodeFromBaseObject():
+    pass
+
+
+def INode_FlashNodes():
+    pass
+
+
+def INode_GetAffectChildren():
+    pass
+
+
+def INode_GetINodeByHandle():
+    pass
+
+
+def INode_GetINodeByName():
+    pass
+
+
+def INode_GetINodeFromRenderID():
+    pass
+
+
+def INode_GetPivotMode():
+    pass
+
+
+def INode_GroupNodes():
+    pass
+
+
+def INode_NodeColorPicker():
+    pass
+
+
+def INode_OpenGroup():
+    pass
+
+
+def INode_SetAffectChildren():
+    pass
+
+
+def INode_SetNodeAttribute():
+    pass
+
+
+def INode_SetPivotMode():
+    pass
+
+
+def INode_UngroupNodes():
+    pass
+
+
+def InterfaceServer__CastFrom():
+    pass
+
+
+def IObject__CastFrom():
+    pass
+
+
+def IParamArray__CastFrom():
+    pass
+
+
+def IParamBlock2__CastFrom():
+    pass
+
+
+def IParamBlock__CastFrom():
+    pass
+
+
+def IParamMap__CastFrom():
+    pass
+
+
+def IScanRenderer__CastFrom():
+    pass
+
+
+def ISubMap__CastFrom():
+    pass
+
+
+def Layer__CastFrom():
+    pass
+
+
+def LayerManager_AddLayer():
+    pass
+
+
+def LayerManager_CreateLayer():
+    pass
+
+
+def LayerManager_DeleteLayer():
+    pass
+
+
+def LayerManager_DoLayerPropDialog():
+    pass
+
+
+def LayerManager_EditLayer():
+    pass
+
+
+def LayerManager_GetCurrentLayer():
+    pass
+
+
+def LayerManager_GetLayer():
+    pass
+
+
+def LayerManager_GetNumLayers():
+    pass
+
+
+def LayerManager_GetPropagateToLayer():
+    pass
+
+
+def LayerManager_GetRootLayer():
+    pass
+
+
+def LayerManager_GetSavedLayer():
+    pass
+
+
+def LayerManager_Reset():
+    pass
+
+
+def LayerManager_SetCurrentLayer():
+    pass
+
+
+def LayerManager_SetPropagateToLayer():
+    pass
+
+
+def LightObject__CastFrom():
+    pass
+
+
+def LinearShape__CastFrom():
+    pass
+
+
+def MakeNameScripterCompatible():
+    pass
+
+
+def MaterialEditor_CloseMtlDlg():
+    pass
+
+
+def MaterialEditor_FindMtlNameInScene():
+    pass
+
+
+def MaterialEditor_FlushMtlDlg():
+    pass
+
+
+def MaterialEditor_GetActiveSlot():
+    pass
+
+
+def MaterialEditor_GetMtlDlgMode():
+    pass
+
+
+def MaterialEditor_GetNumSlots():
+    pass
+
+
+def MaterialEditor_IsMtlDlgShowing():
+    pass
+
+
+def MaterialEditor_IsMtlInstanced():
+    pass
+
+
+def MaterialEditor_LoadMaterialLibrary():
+    pass
+
+
+def MaterialEditor_OpenMtlDlg():
+    pass
+
+
+def MaterialEditor_PutMaterial():
+    pass
+
+
+def MaterialEditor_SaveMaterialLibrary():
+    pass
+
+
+def MaterialEditor_SetActiveSlot():
+    pass
+
+
+def MaterialEditor_SetMtlDlgMode():
+    pass
+
+
+def MaterialEditor_SetSlot():
+    pass
+
+
+def MaterialEditor_UnFlushMtlDlg():
+    pass
+
+
+def MaterialEditor_UpdateMtlEditorBrackets():
+    pass
+
+
+def MaterialLibrary__CastFrom():
+    pass
+
+
+def MaterialLibrary_FileOpenMatLib():
+    pass
+
+
+def MaterialLibrary_FileSaveAsMatLib():
+    pass
+
+
+def MaterialLibrary_FileSaveMatLib():
+    pass
+
+
+def MaterialLibrary_GetCurrentLibrary():
+    pass
+
+
+def MaterialLibrary_GetNumSceneMaterials():
+    pass
+
+
+def MaterialLibrary_GetSceneMaterial():
+    pass
+
+
+def MaterialLibrary_GetSceneMaterialLibrary():
+    pass
+
+
+def MaterialLibrary_LoadDefaultMaterialLibrary():
+    pass
+
+
+def MaterialManager_DoMaterialBrowseDlg():
+    pass
+
+
+def MaterialManager_GetMatLibFileName():
+    pass
+
+
+def MaterialManager_GetMtlSlot():
+    pass
+
+
+def MaterialManager_IsMtlOkForScene():
+    pass
+
+
+def MaterialManager_PutMtlToMtlEditor():
+    pass
+
+
+def Math_BasisFromZDir():
+    pass
+
+
+def Math_Bias():
+    pass
+
+
+def Math_BoxStep():
+    pass
+
+
+def Math_Clamp():
+    pass
+
+
+def Math_Gain():
+    pass
+
+
+def Math_Noise1():
+    pass
+
+
+def Math_Noise2():
+    pass
+
+
+def Math_Noise3():
+    pass
+
+
+def Math_Noise3DS():
+    pass
+
+
+def Math_Noise4():
+    pass
+
+
+def Math_SmoothStep():
+    pass
+
+
+def Math_SRamp():
+    pass
+
+
+def Math_Threshold():
+    pass
+
+
+def Math_Turbulence():
+    pass
+
+
+def Matrix3_GetIdentity():
+    pass
+
+
+def Menu__CastFrom():
+    pass
+
+
+def MenuElement__CastFrom():
+    pass
+
+
+def MenuItem__CastFrom():
+    pass
+
+
+def MenuManager__CastFrom():
+    pass
+
+
+def MenuManager_FindMenu():
+    pass
+
+
+def MenuManager_GetMainMenu():
+    pass
+
+
+def MenuManager_GetMenuFile():
+    pass
+
+
+def MenuManager_LoadMenuFile():
+    pass
+
+
+def MenuManager_MenuExists():
+    pass
+
+
+def MenuManager_SaveMenuFile():
+    pass
+
+
+def MenuManager_UnregisterMenu():
+    pass
+
+
+def Mesh__CastFrom():
+    pass
+
+
+def Mesh_AffectRegionFunction():
+    pass
+
+
+def Mesh_CombineMeshes():
+    pass
+
+
+def Mesh_GetDisplayBackFaceVertices():
+    pass
+
+
+def Mesh_GetHandleBoxType():
+    pass
+
+
+def Mesh_GetMapChannelID():
+    pass
+
+
+def Mesh_GetMapChannelNum():
+    pass
+
+
+def Mesh_GetUseVertexDots():
+    pass
+
+
+def Mesh_GetUseVisEdge():
+    pass
+
+
+def Mesh_GetVertexDotType():
+    pass
+
+
+def Mesh_SetDisplayBackFaceVertices():
+    pass
+
+
+def Mesh_SetHandleBoxType():
+    pass
+
+
+def Mesh_SetUseVertexDots():
+    pass
+
+
+def Mesh_SetUseVisEdge():
+    pass
+
+
+def Mesh_SetVertexDotType():
+    pass
+
+
+def Mesh_SliceMesh():
+    pass
+
+
+def Mesh_VertexDataType():
+    pass
+
+
+def ModContext__CastFrom():
+    pass
+
+
+def Modifier__CastFrom():
+    pass
+
+
+def ModifierPanel_Add():
+    pass
+
+
+def ModifierPanel_AddToSelection():
+    pass
+
+
+def ModifierPanel_Delete():
+    pass
+
+
+def ModifierPanel_EnableShowEndResult():
+    pass
+
+
+def ModifierPanel_GetContexts():
+    pass
+
+
+def ModifierPanel_GetReplaceableObjRef():
+    pass
+
+
+def ModifierPanel_GetShowEndResult():
+    pass
+
+
+def ModifierPanel_IsValid():
+    pass
+
+
+def ModifierPanel_SetShowEndResult():
+    pass
+
+
+def Mtl__CastFrom():
+    pass
+
+
+def Mtl_CombineMaterials():
+    pass
+
+
+def MtlBase__CastFrom():
+    pass
+
+
+def MultiMtl__CastFrom():
+    pass
+
+
+def Names_AssignNew():
+    pass
+
+
+def Names_GetSuffixLength():
+    pass
+
+
+def Names_MakeNodeNameUnique():
+    pass
+
+
+def Names_SetSuffixLength():
+    pass
+
+
+def NegInfinity():
+    pass
+
+
+def Never():
+    pass
+
+
+def Now():
+    pass
+
+
+def Object__CastFrom():
+    pass
+
+
+def OSModifier__CastFrom():
+    pass
+
+
+def ParamBlockDesc2__CastFrom():
+    pass
+
+
+def ParamDimension__CastFrom():
+    pass
+
+
+def ParamDimension_GetDefaultDim():
+    pass
+
+
+def ParamDimension_GetStdAngleDim():
+    pass
+
+
+def ParamDimension_GetStdColor255Dim():
+    pass
+
+
+def ParamDimension_GetStdColorDim():
+    pass
+
+
+def ParamDimension_GetStdNormalizedDim():
+    pass
+
+
+def ParamDimension_GetStdPercentDim():
+    pass
+
+
+def ParamDimension_GetStdSegmentsDim():
+    pass
+
+
+def ParamDimension_GetStdTimeDim():
+    pass
+
+
+def ParamDimension_GetStdWorldDim():
+    pass
+
+
+def ParamDimensionBase__CastFrom():
+    pass
+
+
+def Parameter__CastFrom():
+    pass
+
+
+def Parameter_GetValue_Typed():
+    pass
+
+
+def Parameter_SetValue_Typed():
+    pass
+
+
+def PathManager_GetAnimationDir():
+    pass
+
+
+def PathManager_GetAppExchangeStorePrivateDir():
+    pass
+
+
+def PathManager_GetAppExchangeStorePublicDir():
+    pass
+
+
+def PathManager_GetArchivesDir():
+    pass
+
+
+def PathManager_GetAutobackDir():
+    pass
+
+
+def PathManager_GetAutodeskCloudDir():
+    pass
+
+
+def PathManager_GetDownloadDir():
+    pass
+
+
+def PathManager_GetDriversDir():
+    pass
+
+
+def PathManager_GetExportDir():
+    pass
+
+
+def PathManager_GetExpressionDir():
+    pass
+
+
+def PathManager_GetFontDir():
+    pass
+
+
+def PathManager_GetHelpDir():
+    pass
+
+
+def PathManager_GetImageDir():
+    pass
+
+
+def PathManager_GetImportDir():
+    pass
+
+
+def PathManager_GetManagedAssembliesDir():
+    pass
+
+
+def PathManager_GetMarketDefaultsDir():
+    pass
+
+
+def PathManager_GetMatlibDir():
+    pass
+
+
+def PathManager_GetMaxdataDir():
+    pass
+
+
+def PathManager_GetMaxstartDir():
+    pass
+
+
+def PathManager_GetMaxSysRootDir():
+    pass
+
+
+def PathManager_GetNonLocalizedPluginCfg():
+    pass
+
+
+def PathManager_GetNonLocalizedUIDataDir():
+    pass
+
+
+def PathManager_GetPageFileDir():
+    pass
+
+
+def PathManager_GetPhotometricDir():
+    pass
+
+
+def PathManager_GetPlugcfgDir():
+    pass
+
+
+def PathManager_GetPreviewDir():
+    pass
+
+
+def PathManager_GetProjectFolderDir():
+    pass
+
+
+def PathManager_GetProxiesDir():
+    pass
+
+
+def PathManager_GetRenderAssetsDir():
+    pass
+
+
+def PathManager_GetRenderOutputDir():
+    pass
+
+
+def PathManager_GetRenderPresetsDir():
+    pass
+
+
+def PathManager_GetSceneDir():
+    pass
+
+
+def PathManager_GetScriptsDir():
+    pass
+
+
+def PathManager_GetShaderCacheDir():
+    pass
+
+
+def PathManager_GetSoundDir():
+    pass
+
+
+def PathManager_GetStartupscriptsDir():
+    pass
+
+
+def PathManager_GetTempDir():
+    pass
+
+
+def PathManager_GetUiDir():
+    pass
+
+
+def PathManager_GetUserIconsDir():
+    pass
+
+
+def PathManager_GetUserMacrosDir():
+    pass
+
+
+def PathManager_GetUserScriptsDir():
+    pass
+
+
+def PathManager_GetUserStartupscriptsDir():
+    pass
+
+
+def PathManager_GetVpostDir():
+    pass
+
+
+def PathManager_SetAnimationDir():
+    pass
+
+
+def PathManager_SetArchivesDir():
+    pass
+
+
+def PathManager_SetAutobackDir():
+    pass
+
+
+def PathManager_SetAutodeskCloudDir():
+    pass
+
+
+def PathManager_SetDownloadDir():
+    pass
+
+
+def PathManager_SetDriversDir():
+    pass
+
+
+def PathManager_SetExportDir():
+    pass
+
+
+def PathManager_SetExpressionDir():
+    pass
+
+
+def PathManager_SetFontDir():
+    pass
+
+
+def PathManager_SetHelpDir():
+    pass
+
+
+def PathManager_SetImageDir():
+    pass
+
+
+def PathManager_SetImportDir():
+    pass
+
+
+def PathManager_SetManagedAssembliesDir():
+    pass
+
+
+def PathManager_SetMarketDefaultsDir():
+    pass
+
+
+def PathManager_SetMatlibDir():
+    pass
+
+
+def PathManager_SetMaxdataDir():
+    pass
+
+
+def PathManager_SetMaxstartDir():
+    pass
+
+
+def PathManager_SetMaxSysRootDir():
+    pass
+
+
+def PathManager_SetNonLocalizedPluginCfg():
+    pass
+
+
+def PathManager_SetNonLocalizedUIDataDir():
+    pass
+
+
+def PathManager_SetPageFileDir():
+    pass
+
+
+def PathManager_SetPhotometricDir():
+    pass
+
+
+def PathManager_SetPlugcfgDir():
+    pass
+
+
+def PathManager_SetPreviewDir():
+    pass
+
+
+def PathManager_SetProjectFolderDir():
+    pass
+
+
+def PathManager_SetProxiesDir():
+    pass
+
+
+def PathManager_SetRenderAssetsDir():
+    pass
+
+
+def PathManager_SetRenderOutputDir():
+    pass
+
+
+def PathManager_SetRenderPresetsDir():
+    pass
+
+
+def PathManager_SetSceneDir():
+    pass
+
+
+def PathManager_SetScriptsDir():
+    pass
+
+
+def PathManager_SetShaderCacheDir():
+    pass
+
+
+def PathManager_SetSoundDir():
+    pass
+
+
+def PathManager_SetStartupscriptsDir():
+    pass
+
+
+def PathManager_SetTempDir():
+    pass
+
+
+def PathManager_SetUiDir():
+    pass
+
+
+def PathManager_SetUserIconsDir():
+    pass
+
+
+def PathManager_SetUserMacrosDir():
+    pass
+
+
+def PathManager_SetUserScriptsDir():
+    pass
+
+
+def PathManager_SetUserStartupscriptsDir():
+    pass
+
+
+def PathManager_SetVpostDir():
+    pass
+
+
+def PluginManager_GetClassInfo():
+    pass
+
+
+def PluginManager_GetClassList():
+    pass
+
+
+def PluginManager_GetNumClasses():
+    pass
+
+
+def PluginManager_GetNumPluginDlls():
+    pass
+
+
+def PluginManager_GetPluginDll():
+    pass
+
+
+def Point2_GetOrigin():
+    pass
+
+
+def Point2_GetXAxis():
+    pass
+
+
+def Point2_GetYAxis():
+    pass
+
+
+def Point3_GetOrigin():
+    pass
+
+
+def Point3_GetXAxis():
+    pass
+
+
+def Point3_GetYAxis():
+    pass
+
+
+def Point3_GetZAxis():
+    pass
+
+
+def Point4_GetOrigin():
+    pass
+
+
+def Point4_GetWAxis():
+    pass
+
+
+def Point4_GetXAxis():
+    pass
+
+
+def Point4_GetYAxis():
+    pass
+
+
+def Point4_GetZAxis():
+    pass
+
+
+def PolyLine__CastFrom():
+    pass
+
+
+def PolyObject__CastFrom():
+    pass
+
+
+def PolyShape__CastFrom():
+    pass
+
+
+def PosInfinity():
+    pass
+
+
+def PreferencesFileEncoding_CodePageForLanguage():
+    pass
+
+
+def PreferencesFileEncoding_DefaultTextLoadCodePage():
+    pass
+
+
+def PreferencesFileEncoding_DefaultTextSaveCodePage():
+    pass
+
+
+def PreferencesFileEncoding_LanguageToUseForFileIO():
+    pass
+
+
+def PreferencesFileEncoding_LegacyFilesCanBeStoredUsingUTF8():
+    pass
+
+
+def PreferencesFileEncoding_OverrideLanguageSpecifiedInSceneFile():
+    pass
+
+
+def PreferencesFileEncoding_SetLanguageToUseForFileIO():
+    pass
+
+
+def PreferencesFileEncoding_SetLegacyFilesCanBeStoredUsingUTF8():
+    pass
+
+
+def PreferencesFileEncoding_SetOverrideLanguageSpecifiedInSceneFile():
+    pass
+
+
+def PreferencesFileEncoding_SetUseCodePageSpecifiedInSceneFile():
+    pass
+
+
+def PreferencesFileEncoding_UseCodePageSpecifiedInSceneFile():
+    pass
+
+
+def PreferencesRendering_GetRendDither256():
+    pass
+
+
+def PreferencesRendering_GetRendDitherTrue():
+    pass
+
+
+def PreferencesRendering_GetRendFieldOrder():
+    pass
+
+
+def PreferencesRendering_GetRendMultiThread():
+    pass
+
+
+def PreferencesRendering_GetRendNThSerial():
+    pass
+
+
+def PreferencesRendering_GetRendNTSC_PAL():
+    pass
+
+
+def PreferencesRendering_GetRendSuperBlackThresh():
+    pass
+
+
+def PreferencesRendering_GetRendVidCorrectMethod():
+    pass
+
+
+def PreferencesRendering_SetRendDither256():
+    pass
+
+
+def PreferencesRendering_SetRendDitherTrue():
+    pass
+
+
+def PreferencesRendering_SetRendFieldOrder():
+    pass
+
+
+def PreferencesRendering_SetRendMultiThread():
+    pass
+
+
+def PreferencesRendering_SetRendNThSerial():
+    pass
+
+
+def PreferencesRendering_SetRendNTSC_PAL():
+    pass
+
+
+def PreferencesRendering_SetRendSuperBlackThresh():
+    pass
+
+
+def PreferencesRendering_SetRendVidCorrectMethod():
+    pass
+
+
+def PreviewParams_GetViewportPreview():
+    pass
+
+
+def QuadMenu__CastFrom():
+    pass
+
+
+def RadiosityEffect__CastFrom():
+    pass
+
+
+def RealWorldMapSizeInterface__CastFrom():
+    pass
+
+
+def ReferenceMaker__CastFrom():
+    pass
+
+
+def ReferenceTarget__CastFrom():
+    pass
+
+
+def RenderElement__CastFrom():
+    pass
+
+
+def RenderElementMgr__CastFrom():
+    pass
+
+
+def Renderer__CastFrom():
+    pass
+
+
+def RenderExecute_Close():
+    pass
+
+
+def RenderExecute_CloseCurrent():
+    pass
+
+
+def RenderExecute_CreatePreview():
+    pass
+
+
+def RenderExecute_Open():
+    pass
+
+
+def RenderExecute_QuickRender():
+    pass
+
+
+def RenderExecute_RenderFrame():
+    pass
+
+
+def RenderSettings_BeginProgressiveMode():
+    pass
+
+
+def RenderSettings_CancelDialog():
+    pass
+
+
+def RenderSettings_CloseDialog():
+    pass
+
+
+def RenderSettings_ColorById():
+    pass
+
+
+def RenderSettings_CommitDialogParameters():
+    pass
+
+
+def RenderSettings_CreateDefault():
+    pass
+
+
+def RenderSettings_CreateDefaultScanline():
+    pass
+
+
+def RenderSettings_DialogOpen():
+    pass
+
+
+def RenderSettings_EndProgressiveMode():
+    pass
+
+
+def RenderSettings_FormatRenderTime():
+    pass
+
+
+def RenderSettings_Get():
+    pass
+
+
+def RenderSettings_GetActualMEditRenderer():
+    pass
+
+
+def RenderSettings_GetApertureWidth():
+    pass
+
+
+def RenderSettings_GetAreaType():
+    pass
+
+
+def RenderSettings_GetAtmosphere():
+    pass
+
+
+def RenderSettings_GetCamera():
+    pass
+
+
+def RenderSettings_GetColorCheck():
+    pass
+
+
+def RenderSettings_GetCurrent():
+    pass
+
+
+def RenderSettings_GetCurrentRenderElementManager():
+    pass
+
+
+def RenderSettings_GetCurrentSetting():
+    pass
+
+
+def RenderSettings_GetDefaultRendererClassID():
+    pass
+
+
+def RenderSettings_GetDeviceBitmapInfo():
+    pass
+
+
+def RenderSettings_GetDisplacement():
+    pass
+
+
+def RenderSettings_GetDraft():
+    pass
+
+
+def RenderSettings_GetEffects():
+    pass
+
+
+def RenderSettings_GetEnd():
+    pass
+
+
+def RenderSettings_GetFileBitmapInfo():
+    pass
+
+
+def RenderSettings_GetFileNumberBase():
+    pass
+
+
+def RenderSettings_GetForce2Side():
+    pass
+
+
+def RenderSettings_GetFrameList():
+    pass
+
+
+def RenderSettings_GetHeight():
+    pass
+
+
+def RenderSettings_GetHidden():
+    pass
+
+
+def RenderSettings_GetImageAspectRatio():
+    pass
+
+
+def RenderSettings_GetImageSequenceType():
+    pass
+
+
+def RenderSettings_GetLastRenderedImage():
+    pass
+
+
+def RenderSettings_GetLocalPreScript():
+    pass
+
+
+def RenderSettings_GetMEditRenderer():
+    pass
+
+
+def RenderSettings_GetMEditRendererLocked():
+    pass
+
+
+def RenderSettings_GetMEditRendererLocked_Default():
+    pass
+
+
+def RenderSettings_GetNThFrame():
+    pass
+
+
+def RenderSettings_GetOutputFile():
+    pass
+
+
+def RenderSettings_GetPickFramesString():
+    pass
+
+
+def RenderSettings_GetPixelAspectRatio():
+    pass
+
+
+def RenderSettings_GetPostScriptFile():
+    pass
+
+
+def RenderSettings_GetPreScriptFile():
+    pass
+
+
+def RenderSettings_GetPresetCount():
+    pass
+
+
+def RenderSettings_GetPresetDisplayName():
+    pass
+
+
+def RenderSettings_GetPresetFileName():
+    pass
+
+
+def RenderSettings_GetProduction():
+    pass
+
+
+def RenderSettings_GetRenderElementMgr():
+    pass
+
+
+def RenderSettings_GetSaveFile():
+    pass
+
+
+def RenderSettings_GetShowVFB():
+    pass
+
+
+def RenderSettings_GetSimplifyAreaLights():
+    pass
+
+
+def RenderSettings_GetSkipFrames():
+    pass
+
+
+def RenderSettings_GetStart():
+    pass
+
+
+def RenderSettings_GetSuperBlack():
+    pass
+
+
+def RenderSettings_GetTimeType():
+    pass
+
+
+def RenderSettings_GetToFields():
+    pass
+
+
+def RenderSettings_GetUseActiveView():
+    pass
+
+
+def RenderSettings_GetUseDevice():
+    pass
+
+
+def RenderSettings_GetUseDraft():
+    pass
+
+
+def RenderSettings_GetUseImageSequence():
+    pass
+
+
+def RenderSettings_GetUseIterative():
+    pass
+
+
+def RenderSettings_GetUseNet():
+    pass
+
+
+def RenderSettings_GetUsePostScript():
+    pass
+
+
+def RenderSettings_GetUsePreScript():
+    pass
+
+
+def RenderSettings_GetViewID():
+    pass
+
+
+def RenderSettings_GetViewParamsFromNode():
+    pass
+
+
+def RenderSettings_GetWidth():
+    pass
+
+
+def RenderSettings_InProgressiveMode():
+    pass
+
+
+def RenderSettings_IsActive():
+    pass
+
+
+def RenderSettings_OpenDialog():
+    pass
+
+
+def RenderSettings_Set():
+    pass
+
+
+def RenderSettings_SetApertureWidth():
+    pass
+
+
+def RenderSettings_SetAreaType():
+    pass
+
+
+def RenderSettings_SetAtmosphere():
+    pass
+
+
+def RenderSettings_SetCamera():
+    pass
+
+
+def RenderSettings_SetColorCheck():
+    pass
+
+
+def RenderSettings_SetCurrent():
+    pass
+
+
+def RenderSettings_SetCurrentSetting():
+    pass
+
+
+def RenderSettings_SetDefaultRendererClassID():
+    pass
+
+
+def RenderSettings_SetDisplacement():
+    pass
+
+
+def RenderSettings_SetDraft():
+    pass
+
+
+def RenderSettings_SetEffects():
+    pass
+
+
+def RenderSettings_SetEnd():
+    pass
+
+
+def RenderSettings_SetFileNumberBase():
+    pass
+
+
+def RenderSettings_SetForce2Side():
+    pass
+
+
+def RenderSettings_SetHeight():
+    pass
+
+
+def RenderSettings_SetHidden():
+    pass
+
+
+def RenderSettings_SetImageSequenceType():
+    pass
+
+
+def RenderSettings_SetLocalPreScript():
+    pass
+
+
+def RenderSettings_SetMEditRenderer():
+    pass
+
+
+def RenderSettings_SetMEditRendererLocked():
+    pass
+
+
+def RenderSettings_SetMEditRendererLocked_Default():
+    pass
+
+
+def RenderSettings_SetNThFrame():
+    pass
+
+
+def RenderSettings_SetOutputFile():
+    pass
+
+
+def RenderSettings_SetPixelAspectRatio():
+    pass
+
+
+def RenderSettings_SetPostScriptFile():
+    pass
+
+
+def RenderSettings_SetPreScriptFile():
+    pass
+
+
+def RenderSettings_SetProduction():
+    pass
+
+
+def RenderSettings_SetSaveFile():
+    pass
+
+
+def RenderSettings_SetShowVFB():
+    pass
+
+
+def RenderSettings_SetSimplifyAreaLights():
+    pass
+
+
+def RenderSettings_SetSkipFrames():
+    pass
+
+
+def RenderSettings_SetStart():
+    pass
+
+
+def RenderSettings_SetSuperBlack():
+    pass
+
+
+def RenderSettings_SetTimeType():
+    pass
+
+
+def RenderSettings_SetToFields():
+    pass
+
+
+def RenderSettings_SetupParameters():
+    pass
+
+
+def RenderSettings_SetUseActiveView():
+    pass
+
+
+def RenderSettings_SetUseDevice():
+    pass
+
+
+def RenderSettings_SetUseDraft():
+    pass
+
+
+def RenderSettings_SetUseImageSequence():
+    pass
+
+
+def RenderSettings_SetUseIterative():
+    pass
+
+
+def RenderSettings_SetUseNet():
+    pass
+
+
+def RenderSettings_SetUsePostScript():
+    pass
+
+
+def RenderSettings_SetUsePreScript():
+    pass
+
+
+def RenderSettings_SetViewID():
+    pass
+
+
+def RenderSettings_SetWidth():
+    pass
+
+
+def RenderSettings_ShouldContinueOnError():
+    pass
+
+
+def RenderSettings_UpdateDialogParameters():
+    pass
+
+
+def SchematicViews_Close():
+    pass
+
+
+def SchematicViews_CloseAll():
+    pass
+
+
+def SchematicViews_FlushAll():
+    pass
+
+
+def SchematicViews_GetCount():
+    pass
+
+
+def SchematicViews_GetName():
+    pass
+
+
+def SchematicViews_Open():
+    pass
+
+
+def SchematicViews_UnFlushAll():
+    pass
+
+
+def SchematicViews_ZoomSelected():
+    pass
+
+
+def SecsToTicks():
+    pass
+
+
+def SelectionManager_ClearCurNamedSelSet():
+    pass
+
+
+def SelectionManager_ClearNodeSelection():
+    pass
+
+
+def SelectionManager_DeSelectNode():
+    pass
+
+
+def SelectionManager_DeselectNodes():
+    pass
+
+
+def SelectionManager_GetCount():
+    pass
+
+
+def SelectionManager_GetCrossing():
+    pass
+
+
+def SelectionManager_GetFrozen():
+    pass
+
+
+def SelectionManager_GetNode():
+    pass
+
+
+def SelectionManager_GetNodes():
+    pass
+
+
+def SelectionManager_GetNumberSelectFilters():
+    pass
+
+
+def SelectionManager_GetSelectFilter():
+    pass
+
+
+def SelectionManager_GetSelectFilterName():
+    pass
+
+
+def SelectionManager_GetSelectionWorldBox():
+    pass
+
+
+def SelectionManager_NamedSelSetListChanged():
+    pass
+
+
+def SelectionManager_SelectNode():
+    pass
+
+
+def SelectionManager_SelectNodes():
+    pass
+
+
+def SelectionManager_SelectNodeTab():
+    pass
+
+
+def SelectionManager_SetCurNamedSelSet():
+    pass
+
+
+def SelectionManager_SetFrozen():
+    pass
+
+
+def SelectionManager_SetSelectFilter():
+    pass
+
+
+def SelectionManager_SetSelectionType():
+    pass
+
+
+def SelectionManager_SetTestOnlyFrozen():
+    pass
+
+
+def ShapeObject__CastFrom():
+    pass
+
+
+def Snaps_GetAngleSnapStatus():
+    pass
+
+
+def Snaps_GetPercentSnapStatus():
+    pass
+
+
+def Snaps_GetSnapActive():
+    pass
+
+
+def Snaps_GetSnapAngle():
+    pass
+
+
+def Snaps_GetSnapMode():
+    pass
+
+
+def Snaps_GetSnapPercent():
+    pass
+
+
+def Snaps_GetSnapState():
+    pass
+
+
+def Snaps_GetSnapType():
+    pass
+
+
+def Snaps_InvalidateOsnapdraw():
+    pass
+
+
+def Snaps_SetSnapActive():
+    pass
+
+
+def Snaps_SetSnapAngle():
+    pass
+
+
+def Snaps_SetSnapMode():
+    pass
+
+
+def Snaps_SetSnapPercent():
+    pass
+
+
+def Snaps_SetSnapType():
+    pass
+
+
+def Snaps_SnapAngle():
+    pass
+
+
+def Snaps_SnapPercent():
+    pass
+
+
+def Snaps_ToggleAngleSnap():
+    pass
+
+
+def Snaps_TogglePercentSnap():
+    pass
+
+
+def SoundObj__CastFrom():
+    pass
+
+
+def SpecialFX__CastFrom():
+    pass
+
+
+def SplineShape__CastFrom():
+    pass
+
+
+def StatusPanel_DisableStatusXYZ():
+    pass
+
+
+def StatusPanel_DisplayTempPrompt():
+    pass
+
+
+def StatusPanel_EnableStatusXYZ():
+    pass
+
+
+def StatusPanel_GetPrompt():
+    pass
+
+
+def StatusPanel_PopPrompt():
+    pass
+
+
+def StatusPanel_ProgressEnd():
+    pass
+
+
+def StatusPanel_ProgressStart():
+    pass
+
+
+def StatusPanel_ProgressUpdate():
+    pass
+
+
+def StatusPanel_PushPrompt():
+    pass
+
+
+def StatusPanel_RemoveTempPrompt():
+    pass
+
+
+def StatusPanel_RepaintTimeSlider():
+    pass
+
+
+def StatusPanel_ReplacePrompt():
+    pass
+
+
+def StatusPanel_SetStatusXYZ():
+    pass
+
+
+def StdMat__CastFrom():
+    pass
+
+
+def swig_import_helper():
+    pass
+
+
+def Texmap__CastFrom():
+    pass
+
+
+def TextureOutput__CastFrom():
+    pass
+
+
+def TicksToSecs():
+    pass
+
+
+def ToneOperator__CastFrom():
+    pass
+
+
+def TrackView_ClearFilter():
+    pass
+
+
+def TrackView_Close():
+    pass
+
+
+def TrackView_CloseAll():
+    pass
+
+
+def TrackView_FlushAll():
+    pass
+
+
+def TrackView_GetCount():
+    pass
+
+
+def TrackView_GetName():
+    pass
+
+
+def TrackView_Open():
+    pass
+
+
+def TrackView_SendToTop():
+    pass
+
+
+def TrackView_SetFilter():
+    pass
+
+
+def TrackView_TestFilter():
+    pass
+
+
+def TrackView_UnFlush():
+    pass
+
+
+def TrackView_Zoom():
+    pass
+
+
+def TrackView_ZoomSelected():
+    pass
+
+
+def TransformGizmos_Deactivate():
+    pass
+
+
+def TransformGizmos_GetEnabled():
+    pass
+
+
+def TransformGizmos_GetRestoreAxis():
+    pass
+
+
+def TransformGizmos_GetTransformMatrix():
+    pass
+
+
+def TransformGizmos_SetEnabled():
+    pass
+
+
+def TransformGizmos_SetRestoreAxis():
+    pass
+
+
+def TriObject__CastFrom():
+    pass
+
+
+def TriObject_GetNumTriFaces():
+    pass
+
+
+def TriObject_GetNumTriVerts():
+    pass
+
+
+def ViewParams__CastFrom():
+    pass
+
+
+def Viewport__CastFrom():
+    pass
+
+
+def ViewportManager_ActivateTexture():
+    pass
+
+
+def ViewportManager_DeactivateTexture():
+    pass
+
+
+def ViewportManager_DisableSceneRedraw():
+    pass
+
+
+def ViewportManager_DisplayActiveCameraViewWithMultiPassEffect():
+    pass
+
+
+def ViewportManager_DisplayViewportConfigDialogPage():
+    pass
+
+
+def ViewportManager_EnableSceneRedraw():
+    pass
+
+
+def ViewportManager_ForceCompleteRedraw():
+    pass
+
+
+def ViewportManager_GetActiveViewport():
+    pass
+
+
+def ViewportManager_GetActiveViewportIndex():
+    pass
+
+
+def ViewportManager_getActiveViewportLabel():
+    pass
+
+
+def ViewportManager_GetActiveViewportRenderLevel():
+    pass
+
+
+def ViewportManager_GetActiveViewportShowEdgeFaces():
+    pass
+
+
+def ViewportManager_GetActiveViewportTransparencyLevel():
+    pass
+
+
+def ViewportManager_GetBlowupRect():
+    pass
+
+
+def ViewportManager_GetBlowupRect2():
+    pass
+
+
+def ViewportManager_GetCrossHairCur():
+    pass
+
+
+def ViewportManager_GetDualPlanes():
+    pass
+
+
+def ViewportManager_GetExtendedDisplayMode():
+    pass
+
+
+def ViewportManager_GetImageAspectRatio():
+    pass
+
+
+def ViewportManager_GetImportZoomExtents():
+    pass
+
+
+def ViewportManager_GetLockImageAspectRatio():
+    pass
+
+
+def ViewportManager_GetLockPixelAspectRatio():
+    pass
+
+
+def ViewportManager_GetMoveModeType():
+    pass
+
+
+def ViewportManager_GetNumViewports():
+    pass
+
+
+def ViewportManager_GetPaintSelBrushSize():
+    pass
+
+
+def ViewportManager_GetPerspMouseSpeed():
+    pass
+
+
+def ViewportManager_GetPixelAspectRatio():
+    pass
+
+
+def ViewportManager_GetRegionRect():
+    pass
+
+
+def ViewportManager_GetRegionRect2():
+    pass
+
+
+def ViewportManager_GetRotationIncrement():
+    pass
+
+
+def ViewportManager_GetViewport():
+    pass
+
+
+def ViewportManager_GetViewportByID():
+    pass
+
+
+def ViewportManager_GetViewportGridVisible():
+    pass
+
+
+def ViewportManager_getViewportLabel():
+    pass
+
+
+def ViewportManager_GetViewportLayout():
+    pass
+
+
+def ViewportManager_InvalidateAllViewportRects():
+    pass
+
+
+def ViewportManager_IsConstructionPlaneEdgeOnInView():
+    pass
+
+
+def ViewportManager_IsSceneRedrawDisabled():
+    pass
+
+
+def ViewportManager_IsViewportMaxed():
+    pass
+
+
+def ViewportManager_MakeExtendedViewportActive():
+    pass
+
+
+def ViewportManager_RedrawViewportsLater():
+    pass
+
+
+def ViewportManager_RedrawViewportsNow():
+    pass
+
+
+def ViewportManager_RedrawViews():
+    pass
+
+
+def ViewportManager_ResetAllViews():
+    pass
+
+
+def ViewportManager_SetActiveViewport():
+    pass
+
+
+def ViewportManager_SetActiveViewportRenderLevel():
+    pass
+
+
+def ViewportManager_SetActiveViewportShowEdgeFaces():
+    pass
+
+
+def ViewportManager_SetActiveViewportTransparencyDisplay():
+    pass
+
+
+def ViewportManager_SetActiveViewportTransparencyLevel():
+    pass
+
+
+def ViewportManager_SetBlowupRect():
+    pass
+
+
+def ViewportManager_SetBlowupRect2():
+    pass
+
+
+def ViewportManager_SetCrossHairCur():
+    pass
+
+
+def ViewportManager_SetDualPlanes():
+    pass
+
+
+def ViewportManager_SetExtendedDisplayMode():
+    pass
+
+
+def ViewportManager_SetHWNDAsActiveViewport():
+    pass
+
+
+def ViewportManager_SetImageAspectRatio():
+    pass
+
+
+def ViewportManager_SetImportZoomExtents():
+    pass
+
+
+def ViewportManager_SetLockImageAspectRatio():
+    pass
+
+
+def ViewportManager_SetLockPixelAspectRatio():
+    pass
+
+
+def ViewportManager_SetMoveModeType():
+    pass
+
+
+def ViewportManager_SetPaintSelBrushSize():
+    pass
+
+
+def ViewportManager_SetPerspMouseSpeed():
+    pass
+
+
+def ViewportManager_SetPixelAspectRatio():
+    pass
+
+
+def ViewportManager_SetRegionRect():
+    pass
+
+
+def ViewportManager_SetRegionRect2():
+    pass
+
+
+def ViewportManager_SetRotationIncrement():
+    pass
+
+
+def ViewportManager_SetViewportGridVisible():
+    pass
+
+
+def ViewportManager_SetViewportLayout():
+    pass
+
+
+def ViewportManager_SetViewportMax():
+    pass
+
+
+def ViewportManager_ViewportInvalidate():
+    pass
+
+
+def ViewportManager_ViewportInvalidateBkgImage():
+    pass
+
+
+def ViewportManager_ViewportZoomExtents():
+    pass
+
+
+def ViewportManager_ZoomToBounds():
+    pass
+
+
+def ViewportsBackground_GetColor():
+    pass
+
+
+def ViewportsBackground_GetColorController():
+    pass
+
+
+def ViewportsBackground_GetFrameNumber():
+    pass
+
+
+def ViewportsBackground_GetFrameRange():
+    pass
+
+
+def ViewportsBackground_GetImageAnimate():
+    pass
+
+
+def ViewportsBackground_GetImageAspect():
+    pass
+
+
+def ViewportsBackground_GetImageAsset():
+    pass
+
+
+def ViewportsBackground_GetOutOfRangeType():
+    pass
+
+
+def ViewportsBackground_GetStartTime():
+    pass
+
+
+def ViewportsBackground_GetSyncFrame():
+    pass
+
+
+def ViewportsBackground_SetColor():
+    pass
+
+
+def ViewportsBackground_SetColorController():
+    pass
+
+
+def ViewportsBackground_SetFrameRange():
+    pass
+
+
+def ViewportsBackground_SetImageAnimate():
+    pass
+
+
+def ViewportsBackground_SetImageAspect():
+    pass
+
+
+def ViewportsBackground_SetImageAsset():
+    pass
+
+
+def ViewportsBackground_SetOutOfRangeType():
+    pass
+
+
+def ViewportsBackground_SetStartTime():
+    pass
+
+
+def ViewportsBackground_SetSyncFrame():
+    pass
+
+
+def Win32_GetCheckBox():
+    pass
+
+
+def Win32_GetMAXHWnd():
+    pass
+
+
+def Win32_GetStatusPanelHWnd():
+    pass
+
+
+def Win32_GetViewPortHWnd():
+    pass
+
+
+def Win32_IsHovering():
+    pass
+
+
+def Win32_IsThemeSupported():
+    pass
+
+
+def Win32_IsVistaAeroEnabled():
+    pass
+
+
+def Win32_MakeButton2State():
+    pass
+
+
+def Win32_MakeButton3State():
+    pass
+
+
+def Win32_RegisterDialogWindow():
+    pass
+
+
+def Win32_RevealInExplorer():
+    pass
+
+
+def Win32_Set3dsMaxAsParentWindow():
+    pass
+
+
+def Win32_SetCheckBox():
+    pass
+
+
+def Win32_UnRegisterDialogWindow():
+    pass
+
+
+def WSModifier__CastFrom():
+    pass
+
+
+def WStr_MatchPattern():
+    pass
+
+
+def WStr_MaxAlphaNumCompare():
+    pass
+
+
+def WStr_MaxAlphaNumCompareNoCase():
+    pass
+
+
+def XRefs_GetIncludeInHierarchy():
+    pass
+
+
+def XRefs_IsAutoUpdateSuspended():
+    pass
+
+
+def XRefs_SceneSetIgnoreFlag():
+    pass
+
+
+def XRefs_SetAutoUpdateSuspended():
+    pass
+
+
+def XRefs_SetIncludeInHierarchy():
+    pass
+
+
+def XRefs_UpdateSceneXRefState():
+    pass

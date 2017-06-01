@@ -4,12 +4,20 @@ rollout ViewFbx "View Fbx"
 	
 	on btnView pressed do
 	(
-		filename = "temp.fbx"
+		local filename = "temp.fbx"
 
-		destpath = getdir( #export )
-		fullpath = destpath + "\\" + filename
-		exportfile filename #noPrompt
-		shellLaunch fullpath ""
+		local destpath = getdir( #export )
+		local fullpath = destpath + "\\" + filename
+		local exportAndLaunch = true
+		if DoesFileExist( fullpath ) then
+		(
+			exportAndLaunch = QueryBox( fullpath + "\nexists. Overwrite?")
+		)
+		if exportAndLaunch then
+		(
+			exportfile filename #noPrompt
+			shellLaunch fullpath ""
+		)
 	)
 )
 
