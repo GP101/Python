@@ -1,0 +1,1 @@
+--filein ("$userScripts\\DsuTextureAtlasGenerator.mcr")
